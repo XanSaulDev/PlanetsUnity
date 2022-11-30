@@ -1,2 +1,1 @@
-# PlanetsUnity
-Con los conocimientos de física que aprendí logre aplicarlos dentro de mi campo que es la computación, en este caso trate de simular la fuerza de la gravedad dentro de unity.
+Con los conocimientos de física que aprendí realice un pequeño proyecto, el cual simula la fuerza de la gravedad de los cuerpos celestes con la ley de gravitación universal, y otra manera mas simplificada.
