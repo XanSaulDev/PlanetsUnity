@@ -1,1 +1,1 @@
-Con los conocimientos de física que aprendí realice un pequeño proyecto, el cual simula la fuerza de la gravedad de los cuerpos celestes con la ley de gravitación universal, y otra manera mas simplificada.
+Con los conocimientos de física que aprendí realicé un pequeño proyecto, el cual simula la fuerza de la gravedad de los cuerpos celestes con la ley de gravitación universal, y otra manera mas simplificada.
